@@ -4,7 +4,7 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-# WargameCampaignManager
+# Wargame Campaign Manager
 
 Lightweight cross-platform desktop app to serve as a game-system-agnostic tool for managing narrative campaigns in miniature wargaming. The idea is to have an app that’s easy to load up with premade campaigns, so that you can quickly get into the fun of playing your favourite miniature wargame in a narrative setting.
 
