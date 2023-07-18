@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WargameCampaignManager", "WargameCampaignManager\WargameCampaignManager.csproj", "{4CCE6D34-3A58-4956-B308-FE240C8E2194}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WargameCampaignManager", "WargameCampaignManager\WargameCampaignManager.fsproj", "{71450AA2-89FE-4221-90EC-F902390C6B6E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4CCE6D34-3A58-4956-B308-FE240C8E2194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CCE6D34-3A58-4956-B308-FE240C8E2194}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CCE6D34-3A58-4956-B308-FE240C8E2194}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CCE6D34-3A58-4956-B308-FE240C8E2194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71450AA2-89FE-4221-90EC-F902390C6B6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71450AA2-89FE-4221-90EC-F902390C6B6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71450AA2-89FE-4221-90EC-F902390C6B6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71450AA2-89FE-4221-90EC-F902390C6B6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0ACBC5C7-4B99-4FBD-A2F6-10E02A9C59F1}
+		SolutionGuid = {B39EE58E-69BC-4381-8E40-8A3048AF5A75}
 	EndGlobalSection
 EndGlobal
